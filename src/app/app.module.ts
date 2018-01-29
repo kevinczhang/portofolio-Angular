@@ -15,6 +15,7 @@ import { AppComponent } from './app.component';
     BrowserModule,
     FormsModule,
     ReactiveFormsModule,
+    HttpClientModule,
     NgbModule.forRoot()
   ],
   providers: [],
